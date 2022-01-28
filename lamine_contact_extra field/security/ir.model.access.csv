@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_work_place,work_place,model_work_place,base.group_user,1,1,1,1
+access_medical_speciality,medical_speciality,model_medical_speciality,base.group_user,1,1,1,1
+access_geographical_region,geographical_region,model_geographical_region,base.group_user,1,1,1,1
+access_department,department,model_department,base.group_user,1,1,1,1
+access_brick_ims,brick_ims,model_brick_ims,base.group_user,1,1,1,1
